@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là <Nguyễn Thành Danh>,MSSV <224575>.
+Đây là README từ nhánh conflict-demo.
