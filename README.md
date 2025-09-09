@@ -1,2 +1,2 @@
 # Git Practice
-Giới thiệu: Tôi là Nguyễn Thành Danh, MSSV 224575.
+Giới thiệu: Tôi là <Nguyễn Thành Danh>,MSSV <224575>.
